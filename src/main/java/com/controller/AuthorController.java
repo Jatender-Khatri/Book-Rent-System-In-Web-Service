@@ -47,7 +47,7 @@ public class AuthorController {
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
 	@Path("/authorGetById/{id}")
-	public AuthorEntity AuthorGetById(@PathParam("id") Integer id)
+	public AuthorEntity authorGetById(@PathParam("id") Integer id)
 	{
 		return authorDao.getAuthorById(id);
 	}
