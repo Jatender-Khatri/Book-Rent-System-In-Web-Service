@@ -1,0 +1,12 @@
+# Book-Rent-System-In-Web-Service
+![add-author-page](https://user-images.githubusercontent.com/60816519/129019126-c1aea45f-d29c-4048-a10f-251bc2be85e1.JPG)
+![add-book-page](https://user-images.githubusercontent.com/60816519/129019131-6a8ae9d5-13d0-4908-b834-8943061b9624.JPG)
+![author-page](https://user-images.githubusercontent.com/60816519/129019133-0ffd49d5-501e-4499-ad25-d0bbb7aa3aa6.JPG)
+![books-page](https://user-images.githubusercontent.com/60816519/129019137-4a84983d-204a-4270-a81e-2c4e5b7d73ee.JPG)
+![delete-author](https://user-images.githubusercontent.com/60816519/129019141-b5fd3612-5fd3-44cc-8564-bb819faeec35.JPG)
+![delete-book](https://user-images.githubusercontent.com/60816519/129019145-202d4c1e-62cb-4f98-9846-25eb4385b474.JPG)
+![home-page](https://user-images.githubusercontent.com/60816519/129019147-dfd9f1a7-5ef4-4a95-a3c6-a032ab7355ca.JPG)
+![login-page](https://user-images.githubusercontent.com/60816519/129019152-9ae17902-75f0-46fc-9a74-946f8e50ccbc.JPG)
+![registration-page](https://user-images.githubusercontent.com/60816519/129019155-6dc83743-132f-4870-89e5-05206bd6104d.JPG)
+![update-author-page](https://user-images.githubusercontent.com/60816519/129019156-08d18aee-c097-4145-9fb5-bcb3d0295a22.JPG)
+![update-book-page](https://user-images.githubusercontent.com/60816519/129019160-e6204248-6326-4b62-bc6c-8251988a2f57.JPG)
